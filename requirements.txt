@@ -1,3 +1,6 @@
-mysqlclient
+#mysqlclient
 flask
-time
+#time
+requests
+Beautifulsoup
+
