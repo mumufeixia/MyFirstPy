@@ -2,5 +2,8 @@
 flask
 #time
 requests
-Beautifulsoup
+BeautifulSoup
+bs4
+lxml
+selenium
 
