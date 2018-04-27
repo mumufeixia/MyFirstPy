@@ -6,4 +6,4 @@ BeautifulSoup
 bs4
 lxml
 selenium
-
+tkinter
