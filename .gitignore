@@ -5,7 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
-
+*.model
+*.h5
+data/
+venv/
+model/
 # Distribution / packaging
 .Python
 env/
